@@ -4,4 +4,4 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 [Link to the code](Leaflet-Part-1/static/js/logic.js)
 
-![The map visualizing an earthquake dataset](
+![The map visualizing an earthquake dataset](/screenshot/Screenshot%202023-12-08%20005257.png)
