@@ -8,9 +8,6 @@ let myMap = L.map("map", {
     zoom: 4
   });
   
-  // Adding the tile layer
-  
-  
   
   // Getting our GeoJSON data
   d3.json(queryUrl).then(function(data) {
